@@ -1,0 +1,117 @@
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\bin\Release\Projectile_test.exe.config
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\bin\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\bin\Release\Projectile_test.application
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\bin\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\bin\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\bin\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.vbprojAssemblyReference.cache
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.Form1.resources
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.Resources.resources
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.vbproj.GenerateResource.cache
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.application
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\source\repos\Projectile_test\Projectile_test\obj\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\bin\Release\Projectile_test.exe.config
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\bin\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\bin\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\bin\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\bin\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\bin\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.vbprojAssemblyReference.cache
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.backform.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.FirstSeasonExp.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.Form1.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.Form2.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.Form3.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.Resources.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.vbproj.GenerateResource.cache
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\Projectile0811\Projectile_test\obj\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\bin\Release\Projectile_test.exe.config
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\bin\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\bin\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\bin\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\bin\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\bin\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.vbprojAssemblyReference.cache
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.backform.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.FirstSeasonExp.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.Form1.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.Form2.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.Form3.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.config.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.Resources.resources
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.vbproj.GenerateResource.cache
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\Projectile0820\Projectile_test\obj\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\bin\Release\Projectile_test.exe.config
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\bin\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\bin\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\bin\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\bin\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\bin\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.vbprojAssemblyReference.cache
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.backform.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.FirstSeasonExp.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.Form1.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.Form2.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.Form3.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.config.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.Resources.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.vbproj.GenerateResource.cache
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.vbproj.CoreCompileInputs.cache
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal\Projectile_test\obj\Release\Projectile_test.pdb
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\bin\Release\Projectile_test.exe.config
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\bin\Release\Projectile_test.exe.manifest
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\bin\Release\Projectile_test.application
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\bin\Release\Projectile_test.exe
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\bin\Release\Projectile_test.pdb
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\bin\Release\Projectile_test.xml
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.vbprojAssemblyReference.cache
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.backform.resources
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.FirstSeasonExp.resources
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.Form1.resources
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.Form2.resources
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.Form3.resources
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.config.resources
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.Resources.resources
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.vbproj.GenerateResource.cache
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.vbproj.CoreCompileInputs.cache
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.exe.manifest
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.application
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.exe
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.xml
+C:\Users\Nakawakke\Desktop\ProjectileFutureQuadraNormal1126\Projectile_test\obj\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\bin\Release\Projectile_test.exe.config
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\bin\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\bin\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\bin\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\bin\Release\Projectile_test.pdb
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\bin\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.vbprojAssemblyReference.cache
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.backform.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.FirstSeasonExp.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.Form1.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.Form2.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.Form3.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.config.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.Resources.resources
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.vbproj.GenerateResource.cache
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.vbproj.CoreCompileInputs.cache
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.exe.manifest
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.application
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.exe
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.xml
+C:\Users\Yo Nakawake\Desktop\ProjectileFutureQuadraNormal0116\Projectile_test\obj\Release\Projectile_test.pdb
