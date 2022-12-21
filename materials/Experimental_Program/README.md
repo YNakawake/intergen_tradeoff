@@ -17,7 +17,7 @@
   + To set the generation, you can do so by choosing one of the radio buttons next to the label 'Gen' (1: the first generation, 2: the second generation; although we did not use there is also the option for the third generation). 
   + If you choose '2', which means the second generation, you should input three parameters from the first generation in the same generations.
   + Note, you have to transmit information manually (by memorizing the parameters of the first generation and manually inputting).
-  + (長さ: Length, 幅広さ: Width, 暑さ: Thickness)
+  + (長さ: Length, 幅広さ: Width, 厚さ: Thickness)
 
 + 3. How to terminate the program:
   + After participants finish all 50 trials, you can terminate by pressing 'alt'+'F4'.
