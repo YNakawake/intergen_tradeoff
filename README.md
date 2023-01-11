@@ -1,4 +1,4 @@
-# Supplementary Material for ‘Exploring new technologies for the future generation: Exploration-exploitation trade-off in an intergenerational framework’
+# Supplementary Materials for ‘Exploring new technologies for the future generation: Exploration-exploitation trade-off in an intergenerational framework’
 ## The contents of this repository are as follows
 
 all R files are in ipynb format (jupyter notebook)
