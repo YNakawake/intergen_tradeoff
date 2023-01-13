@@ -21,7 +21,7 @@ all R files are in ipynb format (jupyter notebook)
         + `Projectile_future_0.3.cpp`: simulation code (c++ with Boost Library)
             + Notice, this code is made by modifying 'Projectile_soc.3.3.cpp': https://github.com/YNakawake/projectile_neg/blob/main/simulation/Projectile_soc.3.3.cpp
         + `Simulation_Graph.iynb`: visualization and analysis code in ipynb format (R)
-        + `Simulation_Graph.iynb`: visualization and analysis code in html format (R)
+        + `Simulation_Graph.html`: visualization and analysis code in html format (R)
         + `simulation_exp.csv`: output of `Projectile_future_0.3.cpp`
-        + `Simulation3.3.csv`: the result of simulation from from Nakawake & Kobayashi (2022)
+        + `Simulation3.3.csv`: the result of simulation from Nakawake & Kobayashi (2022)
     + `README.md` : the file you are reading now
