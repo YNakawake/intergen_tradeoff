@@ -6,7 +6,9 @@ all R files are in ipynb format (jupyter notebook)
 + `./`
     + `data_analysis/`: statistical analyis and data visualization codes, datasets are also included
         + `main_analysis.ipynb`: data analysis code in ipynb format (R)
-        + `main_analysis.ipynb`: data analysis code in html format (R)
+        + `main_analysis.html`: data analysis code in html format (R)
+        + `Revised_main_analysis.ipynb`: revised data analysis code (after receiving peer-review comments) in ipynb format (R)
+        + `Revised_main_analysis.html`: revised data analysis code (after receiving peer-review comments)  in HTML format (R)
         + `maindata.csv`: the experimental dataset 
         + `maindata.csv`: the dataset of the postquestionnaire 
     +  `materials/` : materials used in the experiment
